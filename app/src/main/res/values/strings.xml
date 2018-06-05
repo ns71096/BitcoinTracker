@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bitcoin Tracker</string>
+    <string name="user_greeting">Welcome User</string>
+    <string name="button_text">Check Price</string>
+    <string name="price">Price :</string>
+</resources>
